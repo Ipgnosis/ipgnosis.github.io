@@ -16,8 +16,8 @@ Humans don't learn games such as Tic Tac Toe, Chess or Go by doing any of the fo
 
 What they actually do is learn enough to start playing the first game, then they play and learn as they go along. During early game play, humans do not:
 
-* Start a game with a proven strategy in mind (e.g. Sicilian Defense, Ruy Lopez, etc.)
-* Conduct an exhaustive, breadth first search of all possible moves (NB even in Tic Tac Toe, there are 9! or 362,880 possible moves)
+* Start a game with a proven strategy in mind (e.g. 'Sicilian Defense', 'Ruy Lopez', etc.)
+* Conduct an exhaustive, breadth first search of all possible moves (*NB even in Tic Tac Toe, there are 9! or 362,880 possible moves*)
 * Calculate win/loss probabilities for any given move
 * Explore the history of great games played in the past, looking for similarities
 
