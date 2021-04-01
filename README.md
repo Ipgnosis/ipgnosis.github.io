@@ -2,7 +2,7 @@
 
 The github pages site of Ipgnosis
 
-## Project 1: Exploring Machine Learning via [Tic-Tac-Toe](https://https://github.com/Ipgnosis/tic_tac_toe)
+## Project 1: Exploring Machine Learning via [Tic-Tac-Toe](https://github.com/Ipgnosis/tic_tac_toe)
 
 **This project is a work in progress: see current status in the repo linked above.**
 
