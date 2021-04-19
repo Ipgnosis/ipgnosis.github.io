@@ -29,4 +29,4 @@ What humans actually do is scan the current game situation, and make an almost s
 
 The goal of this project is to get the computer to learn Tic Tac Toe as a child learns: through the experience of play, basing their decisions on their recollection of what worked or didn't work in the past.
 
-Once this is working properly, I plan to move on to getting the program to write the rules it derives in human readable form.
+Once this is working properly, the next step will be to get the program to write the rules it derives in human readable form.
