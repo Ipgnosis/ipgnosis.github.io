@@ -55,6 +55,6 @@ Like many others, I have been fascinated (and horrified) by the Covid-19 pandemi
 4. Has geography, population density, culture and seasons played a role in contagion?
 
 ### Data Source:
-I found [Our World in Data](https://ourworldindata.org) (see citation in footnote i. below) which is a project based at the Oxford Martin School of the University of Oxford, UK. As described on their [coronavirus pages](https://ourworldindata.org/covid-sources-comparison), this data is based on a range of sources, but particularly from the European Center for Disease Control and Prevention as well as Johns Hopkins University.
+Most of the quantitative data is provided by [Our World in Data](https://ourworldindata.org) (see citation in footnote i. below) which is a project based at the Oxford Martin School of the University of Oxford, UK. As described on their [coronavirus pages](https://ourworldindata.org/covid-sources-comparison), this data is based on a range of sources, but particularly from the European Center for Disease Control and Prevention as well as Johns Hopkins University.
 
 (i.) Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
