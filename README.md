@@ -38,7 +38,7 @@ Once this is working properly, the next step will be to get the program to write
 Like many others, I have been fascinated (not to mention horrified) by the Covid-19 pandemic. I have many questions for which I am unable to find answers.
 
 ### Data Source:
-I found 'Our World in Data' (see citation in footnote i. below) which is a project based at the Oxford Martin School of the University of Oxford, UK. As described here (https://ourworldindata.org/covid-sources-comparison), this data is based on a range of sources, but particularly the European Center for Disease Control and Prevention as well as Johns Hopkins University.
+I found 'Our World in Data' (see citation in footnote i. below) which is a project based at the Oxford Martin School of the University of Oxford, UK. As described on their [ourworldindata.org](https://ourworldindata.org/covid-sources-comparison), this data is based on a range of sources, but particularly the European Center for Disease Control and Prevention as well as Johns Hopkins University.
 
 The full data can be downloaded from [Our World in Data](https://ourworldindata.org/coronavirus-source-data) or [Github](https://github.com/owid/covid-19-data/tree/master/public/data). The data is available in either .json, .csv or .xlsx format and is updated at least once per day.
 
