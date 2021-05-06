@@ -35,7 +35,7 @@ Once this is working properly, the next step will be to get the program to write
 
 **This project is a work in progress: see current status in the repo linked above.**
 
-Like many others, I have been fascinated (and horrified) by the Covid-19 pandemic. I have many questions for which I am unable to find answers: so here is my attempt.
+Like many others, I have been fascinated (and horrified) by the Covid-19 pandemic. I have many questions for which I am unable to find answers: so here is my attempt to find answers for the questions below.
 
 *Note that I switched over from using pandas, because my ultimate goal is to share this data on a website.*
 
