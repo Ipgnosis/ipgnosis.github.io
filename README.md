@@ -39,9 +39,6 @@ Like many others, I have been fascinated (and horrified) by the Covid-19 pandemi
 
 *Note that I switched over from using pandas, because my ultimate goal is to share this data on a website.*
 
-### Data Source:
-I found [Our World in Data](https://ourworldindata.org) (see citation in footnote i. below) which is a project based at the Oxford Martin School of the University of Oxford, UK. As described on their [coronavirus pages](https://ourworldindata.org/covid-sources-comparison), this data is based on a range of sources, but particularly from the European Center for Disease Control and Prevention as well as Johns Hopkins University.
-
 ### Hypotheses:
 1. Economic strength correlates to high performance in pandemic management
 2. Population density correlates to contagion
@@ -56,5 +53,8 @@ I found [Our World in Data](https://ourworldindata.org) (see citation in footnot
 2. How has country performance changed over time?
 3. Has GDP had any effect on performance?
 4. Has geography, population density, culture and seasons played a role in contagion?
+
+### Data Source:
+I found [Our World in Data](https://ourworldindata.org) (see citation in footnote i. below) which is a project based at the Oxford Martin School of the University of Oxford, UK. As described on their [coronavirus pages](https://ourworldindata.org/covid-sources-comparison), this data is based on a range of sources, but particularly from the European Center for Disease Control and Prevention as well as Johns Hopkins University.
 
 (i.) Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
