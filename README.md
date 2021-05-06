@@ -31,7 +31,7 @@ The goal of this project is to get the computer to learn Tic Tac Toe as a child 
 
 Once this is working properly, the next step will be to get the program to write the rules it derives in human readable form.
 
-## Project 2: Aanalysis of Covid data via [Jupyter Notebooks] (https://github.com/Ipgnosis/covid_analysis)
+## Project 2: Aanalysis of Covid data via [Jupyter Notebooks](https://github.com/Ipgnosis/covid_analysis)
 
 **This project is a work in progress: see current status in the repo linked above.**
 
