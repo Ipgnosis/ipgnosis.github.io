@@ -38,7 +38,7 @@ Once this is working properly, the next step will be to get the program to write
 Like many others, I have been fascinated (and horrified) by the Covid-19 pandemic. I have many questions for which I am unable to find answers: so here is my attempt.
 
 ### Data Source:
-I found 'Our World in Data' (see citation in footnote i. below) which is a project based at the Oxford Martin School of the University of Oxford, UK. As described on [ourworldindata.org](https://ourworldindata.org/covid-sources-comparison), this data is based on a range of sources, but particularly the European Center for Disease Control and Prevention as well as Johns Hopkins University.
+I found [Our World in Data](https://ourworldindata.org) (see citation in footnote i. below) which is a project based at the Oxford Martin School of the University of Oxford, UK. As described on [their coronavirus pages](https://ourworldindata.org/covid-sources-comparison), this data is based on a range of sources, but particularly the European Center for Disease Control and Prevention as well as Johns Hopkins University.
 
 ### Hypotheses:
 1. Economic strength correlates to high performance in pandemic management
