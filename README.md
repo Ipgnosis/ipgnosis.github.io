@@ -58,3 +58,37 @@ Like many others, I have been fascinated (and horrified) by the Covid-19 pandemi
 Most of the quantitative data is provided by [Our World in Data](https://ourworldindata.org) (see citation in footnote i. below) which is a project based at the Oxford Martin School of the University of Oxford, UK. As described on their [coronavirus pages](https://ourworldindata.org/covid-sources-comparison), this data is based on a range of sources, but particularly from the European Center for Disease Control and Prevention as well as Johns Hopkins University.
 
 (i.) Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
+
+
+## Project 3: Python Like function
+
+**This is a work in progress...**
+
+A string compare function that analyzes to what extent string A is similar to string B.
+
+### Background
+
+This idea came from working on a different project where I kept misspelling the country name 'Kazakhstan' as 'Khazakstan'.  I searched for a 'like' function in Python and found none.  This is strange, because this has been implemented in other languages before: there are even 'sounds like' functions (i.e. 'soundex').  So, just for fun, I thought I would give it a shot.  I expect that this will be a lot easier than implementing a spelling checker (or learning how to spell...)
+
+### Ultimate goal
+
+An extension of the string object that adds a 'like' operator to test equivalence.  This will enable 'Khazakstan' to match to 'Kazakhstan'.
+
+**Note that this is not a spelling checker.**
+
+### Implementation
+
+The implementation is almost certainly on some kind of probability function.  As an alternate, I will also try to incorporate the work of [Levenshtein](https://en.wikipedia.org/wiki/Levenshtein_distance) and/or [Damerau-Levenshtein](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance).
+
+This will be particularly useful for 'typos' resulting from keyboarding errors (e.g. 'typo' vs. 'tyop') that have found their way into data, thereby making it difficult to search upon.
+
+This is *particularly useful* when a string contains international characters (that aren't available on all keyboards), for example:
+
+* ñ: the Spanish letter 'eñe'
+* ü: the German (etc.) letter u with an umlaut
+* ç: the French c-cedilla
+* ß: the German letter 'eszett'
+
+(*I suspect that the Cyrillic character set is overly ambitious...*)
+
+Note that the eszett (and maybe others also) is a complication of the general problem in that two letters 'ss' can be substituted for the eszett when the keyboard/character set in use doesn’t contain the eszett.  For example: the German word for 'street' is 'straße' which can also be written 'strasse'.
