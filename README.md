@@ -60,7 +60,7 @@ Most of the quantitative data is provided by [Our World in Data](https://ourworl
 (i.) Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
 
 
-## Project 3: [Python Like function](https://github.com/Ipgnosis/like)
+## Project 3: [Python 'Like' function](https://github.com/Ipgnosis/like)
 
 **This project is a work in progress: see current status in the repo linked above.**
 
