@@ -60,15 +60,15 @@ Most of the quantitative data is provided by [Our World in Data](https://ourworl
 (i.) Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
 
 
-## Project 3: Python Like function
+## Project 3: [Python Like function](https://github.com/Ipgnosis/like)
 
-**This is a work in progress...**
+**This project is a work in progress: see current status in the repo linked above.**
 
 A string compare function that analyzes to what extent string A is similar to string B.
 
 ### Background
 
-This idea came from working on a different project where I kept misspelling the country name 'Kazakhstan' as 'Khazakstan'.  I searched for a 'like' function in Python and found none.  This is strange, because this has been implemented in other languages before: there are even 'sounds like' functions (i.e. 'soundex').  So, just for fun, I thought I would give it a shot.  I expect that this will be a lot easier than implementing a spelling checker (or learning how to spell...)
+This idea came from working on a different project (see above) where I kept misspelling the country name 'Kazakhstan' as 'Khazakstan'.  I searched for a 'like' function in Python and found none.  This is strange, because this has been implemented in other languages before: there are even 'sounds like' functions (i.e. 'soundex').  So, just for fun, I thought I would give it a shot.  I expect that this will be a lot easier than implementing a spelling checker (or learning how to spell...)
 
 ### Ultimate goal
 
