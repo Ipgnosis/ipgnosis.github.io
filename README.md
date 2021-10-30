@@ -23,7 +23,7 @@ When learning a game, humans typically learn just enough to start playing the fi
 
 *However, this is pretty much how all computer versions of board games work.*
 
-What humans actually do is scan the current game state, and make an almost subconscious assessment of risk/reward before selecting the next move most likely to win.  If winning appears less likely, then they are playing for a draw.  This has been confirmed by Garry Kasparov's book: **'Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins'**; where he explains how this game intuition is developed through rigorous practice.
+What humans actually do is scan the current game state, and make an almost subconscious assessment of risk/reward before selecting the next move most likely to win.  If winning appears less likely, then they are playing for a draw.  This has been confirmed by (former World Chess Champion) Garry Kasparov's book: **'Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins'**; where he explains how this game intuition is developed through rigorous practice.
 
 ### Goal:
 
