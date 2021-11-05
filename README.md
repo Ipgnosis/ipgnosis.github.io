@@ -1,6 +1,6 @@
 # ipgnosis.github.io
 
-The GitHub Pages site of Ipgnosis LLC and, by extension, Russell Bennett. You can see more about me on [LinkedIn here](https://www.linkedin.com/in/russellpbennett).  Here is a quick summary of what I am currently working on (and am able to share).
+Welcome to the GitHub Pages site of Ipgnosis LLC and, by extension, Russell Bennett. You can see more about me on [LinkedIn here](https://www.linkedin.com/in/russellpbennett).  Here is a quick summary of what I am currently working on (and am able to share).
 
 ## Project 1: Exploring Machine Learning via [Tic-Tac-Toe](https://github.com/Ipgnosis/tic_tac_toe)
 
