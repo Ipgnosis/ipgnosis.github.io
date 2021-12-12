@@ -6,7 +6,7 @@ Welcome to the GitHub Pages site of Ipgnosis LLC and, by extension, Russell Benn
 
 **This project is a work in progress: see current status in the repo linked above.**
 
-This project was inspired by [Google's AlphaZero](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go). However, AlphaZero's learning process is opaque, and this doesn't expand my knowlege of how software can learn a problem space. This project is a process through which a human can understand the way that computers learn from first principles.
+This project was inspired by [Google's AlphaZero](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go). However, AlphaZero's learning process is opaque, and this doesn't expand *my* knowlege of how software can learn a problem space. This project is a process through which a human can understand the way that computers learn from first principles.
 
 ### Preamble:
 Humans don't learn games such as Tic Tac Toe, Chess or Go by doing any of the following:
