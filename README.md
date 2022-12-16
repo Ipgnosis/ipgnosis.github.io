@@ -33,11 +33,11 @@ Once this is working properly, the next step will be to get the program to write
 
 ## Project 2: [Analysis of Covid data via Jupyter Notebooks](https://github.com/Ipgnosis/covid_analysis)
 
-**This project is a work in progress: see current status in the repo linked above.**
+**This project is on hold (see below): see current status in the repo linked above.**
 
 Like many others, I have been fascinated (and horrified) by the Covid-19 pandemic. I have many questions for which I am unable to find answers: so here is my attempt to find answers for the questions below.
 
-*Note that I switched over from using pandas, because my ultimate goal is to share this data on a website.*
+*Note that I switched over from using pandas, because I had intended to share this analysis on a website (see also the API in a different repo).  However, as the pandemic progressed, there were many competing analyses (e.g. NY Times) so that project was parked.*
 
 ### Hypotheses:
 1. Economic strength correlates to high performance in pandemic management
