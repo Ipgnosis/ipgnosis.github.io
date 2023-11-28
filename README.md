@@ -2,9 +2,9 @@
 
 Welcome to the GitHub Pages site of [Ipgnosis LLC](http://ipgnosis.com) and, by extension, Russell Bennett. You can see more about me on [LinkedIn](https://www.linkedin.com/in/russellpbennett).  Here is a quick summary of some things I have been working on recently and am able to share.
 
-## Project 1: Exploring Machine Learning via [Tic-Tac-Toe](https://github.com/Ipgnosis/tic_tac_toe)
+## Project 1: Exploring Machine Learning via Tic-Tac-Toe
 
-**This project is a work in progress: see current status in the repo linked above.**
+**This project is now private.  Please contact me for further information.**
 
 This project was inspired by [Google's AlphaZero](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go). However, AlphaZero's learning process is opaque, and this doesn't expand **my** knowlege of how software can learn a problem space. This project is a process through which a human can understand the way that computers learn from first principles.
 
@@ -31,9 +31,9 @@ The goal of this project is to get the computer to learn Tic Tac Toe as a child 
 
 Once this is working properly, the next step will be to get the program to write the rules it derives in human readable form.
 
-## Project 2: [Analysis of Covid data via Jupyter Notebooks](https://github.com/Ipgnosis/covid_analysis)
+## Project 2: Analysis of Covid data via Jupyter Notebooks
 
-**This project is on hold (see below): see current status in the repo linked above.**
+**This project is now private.  Please contact me for further information.**
 
 Like many others, I have been fascinated (and horrified) by the Covid-19 pandemic. I have many questions for which I am unable to find answers: so here is my attempt to find answers for the questions below.
 
@@ -60,9 +60,9 @@ Most of the quantitative data is provided by [Our World in Data](https://ourworl
 (i.) Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
 
 
-## Project 3: [Python 'Like' function](https://github.com/Ipgnosis/like)
+## Project 3: Python 'Like' function
 
-**This project is a work in progress: see current status in the repo linked above.**
+**This project is now private.  Please contact me for further information.**
 
 A string compare function that analyzes to what extent string A is similar to string B.
 
