@@ -2,7 +2,13 @@
 
 Welcome to the GitHub Pages site of [Ipgnosis LLC](http://ipgnosis.com) and, by extension, Russell Bennett. You can see more about me on [LinkedIn](https://www.linkedin.com/in/russellpbennett).  Here is a quick summary of some things I have been working on recently and am able to share.
 
-## Project 1: Exploring Machine Learning via Tic-Tac-Toe
+## Project 1: Argonaut - a base class to help manage JSON files
+
+I seem to spend a lot of time writing code to read from, write to and generally manage JSON files.  I decided to automate (some of) this.  This is a base class because each JSON file you will encounter is unique in structure and purpose. However, the class methods are generic to all JSON files.  Creating a child class that addresses individual JSON file specificity can benefit from this base class.
+
+No prizes for guessing the thought behind the repo name...
+
+## Project 2: Exploring Machine Learning via Tic-Tac-Toe
 
 **This project is now private.  Please contact me for further information.**
 
@@ -31,7 +37,7 @@ The goal of this project is to get the computer to learn Tic Tac Toe as a child 
 
 Once this is working properly, the next step will be to get the program to write the rules it derives in human readable form.
 
-## Project 2: Analysis of Covid data via Jupyter Notebooks
+## Project 3: Analysis of Covid data via Jupyter Notebooks
 
 **This project is now private.  Please contact me for further information.**
 
@@ -60,7 +66,7 @@ Most of the quantitative data is provided by [Our World in Data](https://ourworl
 (i.) Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
 
 
-## Project 3: Python 'Like' function
+## Project 4: Python 'Like' function
 
 **This project is now private.  Please contact me for further information.**
 
